@@ -1,0 +1,72 @@
+body {
+    background: black;
+    color: white;
+}
+
+#map {
+    border: 1px solid white;
+    height: 650px;
+    width: 100%;
+    margin-bottom: -20px;
+}
+
+#iss-data {
+    border: 1px solid  rgb(63, 63, 218);
+    margin: 20px 0px 20px 0px;
+    width: 100%;
+    background-color: rgb(63, 63, 218);
+    margin-bottom: -7px;
+
+}
+
+.issdata li {
+    padding-left: 60px;
+    font-size: 18px;
+    display: inline-block;    
+}
+
+.issdata li span {
+     font-weight: 600;
+}
+
+h1 {
+    margin: auto;
+    text-align: center;
+}
+
+.center{
+    width: 100%;
+}
+.centered {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 28px;
+    text-shadow: 2px 2px 6px black;
+  }
+
+.bottom {
+    position: absolute;
+    top: 127%;
+    left: 50%;
+
+  }
+  #submit{
+    background-color: #003c80;
+    border: none;
+    color:red;
+    transform: translate(-50%, -50%);
+    font-size: 32px;
+    font-weight: 700;
+    text-shadow: 2px 2px 4px white;
+}
+#submit:hover{
+    color:green;
+}
+
+#clickme{
+    display: none;
+}
+
+
