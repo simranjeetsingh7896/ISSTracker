@@ -13,9 +13,6 @@
 
 ## How To Run Project
 - Use Localhost/api-project/index.html => Then click on "click me" button for displaying map and tracker
--                                               OR
-- Go to this url 
-
 
 ## Learning curve and challengers
 - Displaying the iss tracker and tracking the information 
